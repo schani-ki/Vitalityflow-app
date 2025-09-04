@@ -2,8 +2,7 @@
   "name": "vitalityflow-app",
   "version": "0.1.0",
   "private": true,
-   },
-   "homepage": "https://vitalityflow-app-git-main-schanis-projects.vercel.app"
+  "homepage": "https://vitalityflow-app-git-main-schanis-projects.vercel.app",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -20,7 +19,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-    "eslintConfig": {
+  "eslintConfig": {
     "extends": [
       "react-app",
       "react-app/jest"
